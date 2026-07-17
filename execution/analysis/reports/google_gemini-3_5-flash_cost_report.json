@@ -1,0 +1,62 @@
+{
+  "run_dir": "D:\\projects\\personal\\frontier-bench-smoke\\execution\\results\\task_downloads\\frontier-audio-vimedcss-bench\\13\\gemini-3.5-flash\\325605",
+  "bundle_dir": "D:\\projects\\personal\\frontier-bench-smoke\\execution\\data\\bundles\\vimedcss_audio_bundle_20",
+  "model_slug": "google/gemini-3.5-flash",
+  "task_state": "BENCHMARK_TASK_RUN_STATE_COMPLETED",
+  "pricing_source_url": "https://ai.google.dev/gemini-api/docs/pricing",
+  "pricing_retrieved_on": "2026-07-05",
+  "scaling_target_audio_hours": 5000,
+  "benchmark_quality": {
+    "row_count": 20,
+    "completed_count": 20,
+    "error_count": 0,
+    "mean_wer": 0.10150499999999998,
+    "mean_cer": 0.0721,
+    "bundle_dir": "/kaggle/input/vimedcss-audio-bundle-20"
+  },
+  "usage": {
+    "rows_with_usage": 20,
+    "audio_seconds_total": 149.0,
+    "audio_hours_total": 0.04138888888888889,
+    "wall_clock_seconds": 130.892143,
+    "wall_clock_hours": 0.03635892861111111,
+    "audio_hours_per_wall_clock_hour": 1.1383418178125482,
+    "real_time_factor": 1.1383418178125482,
+    "input_tokens_total": 5138,
+    "output_tokens_total": 572,
+    "combined_tokens_total": 5710,
+    "input_tokens_per_audio_hour": 124139.59731543623,
+    "output_tokens_per_audio_hour": 13820.134228187919,
+    "combined_tokens_per_audio_hour": 137959.73154362416,
+    "input_tokens_per_wall_clock_hour": 141313.2948705714,
+    "output_tokens_per_wall_clock_hour": 15732.036719728852,
+    "combined_tokens_per_wall_clock_hour": 157045.33159030025
+  },
+  "pricing": {
+    "standard": {
+      "input_price_per_million_tokens_usd": 1.5,
+      "output_price_per_million_tokens_usd": 9.0,
+      "input_cost_per_audio_hour_usd": 0.18620939597315433,
+      "output_cost_per_audio_hour_usd": 0.12438120805369128,
+      "total_cost_per_audio_hour_usd": 0.31059060402684563,
+      "estimated_cost_for_5000_audio_hours_usd": 1552.9530201342282
+    },
+    "batch": {
+      "input_price_per_million_tokens_usd": 0.75,
+      "output_price_per_million_tokens_usd": 4.5,
+      "input_cost_per_audio_hour_usd": 0.09310469798657717,
+      "output_cost_per_audio_hour_usd": 0.06219060402684564,
+      "total_cost_per_audio_hour_usd": 0.15529530201342281,
+      "estimated_cost_for_5000_audio_hours_usd": 776.4765100671141
+    },
+    "priority": {
+      "input_price_per_million_tokens_usd": 2.7,
+      "output_price_per_million_tokens_usd": 16.2,
+      "input_cost_per_audio_hour_usd": 0.3351769127516778,
+      "output_cost_per_audio_hour_usd": 0.22388617449664427,
+      "total_cost_per_audio_hour_usd": 0.5590630872483221,
+      "estimated_cost_for_5000_audio_hours_usd": 2795.3154362416103
+    }
+  },
+  "assumption": "Scaling assumes future transcription uses a similar prompt shape, audio chunking strategy, and model behavior as this 20-clip benchmark run."
+}

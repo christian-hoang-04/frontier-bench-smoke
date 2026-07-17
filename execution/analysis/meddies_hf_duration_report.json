@@ -1,0 +1,121 @@
+{
+  "report_name": "meddies_hf_duration_report",
+  "generated_on": "2026-07-01",
+  "repo_id": "Meddies/Meddies-ASR-Raw-Audios",
+  "repo_url": "https://huggingface.co/datasets/Meddies/Meddies-ASR-Raw-Audios/tree/main",
+  "root": "processed/audio",
+  "method": {
+    "enumeration": "Authenticated HfFileSystem glob over nested WAV paths",
+    "duration_estimation": "Authenticated HTTP range reads of WAV headers only, then RIFF/WAVE parsing",
+    "download_strategy": "No full audio download",
+    "rate_limit_strategy": "Low concurrency plus retry/backoff for HF 429 responses",
+    "verification": "Two independent passes matched exactly"
+  },
+  "totals": {
+    "audio_files_remote": 6633,
+    "duration_seconds": 8520147.71775,
+    "duration_hours": 2366.707699,
+    "zero_duration_files": 0,
+    "duration_parse_errors": 0
+  },
+  "caveat": {
+    "summary": "These values describe the current Hugging Face main snapshot and should not be blindly joined to older local manifests with different file counts.",
+    "known_count_mismatches": [
+      {
+        "source": "HTV_Tin_Tuc",
+        "local_manifest_audio_files": 4416,
+        "current_hf_remote_audio_files": 3427
+      },
+      {
+        "source": "VIETSUCCESS",
+        "local_manifest_audio_files": 675,
+        "current_hf_remote_audio_files": 408
+      },
+      {
+        "source": "Vietcetera",
+        "local_manifest_audio_files": 945,
+        "current_hf_remote_audio_files": 975
+      }
+    ]
+  },
+  "sources": [
+    {
+      "source": "CafeF",
+      "audio_files_remote": 1,
+      "duration_seconds": 29.205313,
+      "duration_hours": 0.008113
+    },
+    {
+      "source": "Duong_Hay_Xam",
+      "audio_files_remote": 29,
+      "duration_seconds": 88588.266562,
+      "duration_hours": 24.607852
+    },
+    {
+      "source": "HTV_Tin_Tuc",
+      "audio_files_remote": 3427,
+      "duration_seconds": 3534094.189312,
+      "duration_hours": 981.69283
+    },
+    {
+      "source": "Khanh_Vy_Official",
+      "audio_files_remote": 22,
+      "duration_seconds": 27187.264,
+      "duration_hours": 7.552018
+    },
+    {
+      "source": "Spiderum_Podcast",
+      "audio_files_remote": 11,
+      "duration_seconds": 28777.258687,
+      "duration_hours": 7.993683
+    },
+    {
+      "source": "The_First_Step",
+      "audio_files_remote": 11,
+      "duration_seconds": 25101.33125,
+      "duration_hours": 6.972592
+    },
+    {
+      "source": "The_Tri_Way",
+      "audio_files_remote": 54,
+      "duration_seconds": 135386.258188,
+      "duration_hours": 37.607294
+    },
+    {
+      "source": "VIETSUCCESS",
+      "audio_files_remote": 408,
+      "duration_seconds": 1364364.020125,
+      "duration_hours": 378.990006
+    },
+    {
+      "source": "VTV10",
+      "audio_files_remote": 533,
+      "duration_seconds": 430836.373375,
+      "duration_hours": 119.67677
+    },
+    {
+      "source": "VTV4",
+      "audio_files_remote": 1122,
+      "duration_seconds": 600849.857438,
+      "duration_hours": 166.902738
+    },
+    {
+      "source": "Vat_Vo_Studio_Podcasts",
+      "audio_files_remote": 1,
+      "duration_seconds": 1644.778687,
+      "duration_hours": 0.456883
+    },
+    {
+      "source": "Vietcetera",
+      "audio_files_remote": 975,
+      "duration_seconds": 2156766.845438,
+      "duration_hours": 599.101902
+    },
+    {
+      "source": "unlock_fm",
+      "audio_files_remote": 39,
+      "duration_seconds": 126522.069375,
+      "duration_hours": 35.145019
+    }
+  ]
+}

@@ -1,0 +1,182 @@
+[
+  {
+    "clip_id": "clip_01",
+    "split": "test",
+    "segment_id": "Med_CS-0-7",
+    "segment_text": "Điều này có nghĩa là để xuất hiện bệnh, cả hai bản sao của gen phải bị đột biến và bệnh nhân phải là nam giới về mặt di truyền,",
+    "cs_terms_list": "gen",
+    "topic": "Medical Sciences",
+    "audio_file": "clip_01.wav"
+  },
+  {
+    "clip_id": "clip_02",
+    "split": "test",
+    "segment_id": "Med_CS-100-12",
+    "segment_text": "Rồi tiếp theo, về lợi khuẩn thì sản phẩm Alpha lipid trước đây đã được trang bị rất tốt với cái hàm lượng lợi khuẩn là 1 tỷ lợi khuẩn tiêu hóa trên một phần.",
+    "cs_terms_list": "lipid",
+    "topic": "Medical Sciences",
+    "audio_file": "clip_02.wav"
+  },
+  {
+    "clip_id": "clip_03",
+    "split": "test",
+    "segment_id": "Med_CS-100-13",
+    "segment_text": "Rồi về chất khoáng ấy thì Alpha lipid thì có ba loại khoáng chất chính, đó là sắt, đó là magie và đó là canxi.",
+    "cs_terms_list": "lipid",
+    "topic": "Medical Sciences",
+    "audio_file": "clip_03.wav"
+  },
+  {
+    "clip_id": "clip_04",
+    "split": "test",
+    "segment_id": "Med_CS-1000-3",
+    "segment_text": "Và chúng ta thấy là đối với người bình thường thì methionin lại rất là tốt.",
+    "cs_terms_list": "methionin",
+    "topic": "Medical Sciences",
+    "audio_file": "clip_04.wav"
+  },
+  {
+    "clip_id": "clip_05",
+    "split": "test",
+    "segment_id": "Med_CS-1000-5",
+    "segment_text": "Đây là những cái nghiên cứu, các nghiên cứu trên thế giới cập nhật gần đây đã cho thấy là chức năng của methionin giúp cho cơ thể người bình thường rất là tốt.",
+    "cs_terms_list": "methionin",
+    "topic": "Medical Sciences",
+    "audio_file": "clip_05.wav"
+  },
+  {
+    "clip_id": "clip_06",
+    "split": "test",
+    "segment_id": "Med_CS-1001-10",
+    "segment_text": "Không được dùng methionin để điều trị ngộ độc paracetamol nếu đã quá 12 giờ tính từ lúc uống thuốc quá liều.",
+    "cs_terms_list": "methionin",
+    "topic": "Medical Sciences",
+    "audio_file": "clip_06.wav"
+  },
+  {
+    "clip_id": "clip_07",
+    "split": "test",
+    "segment_id": "Med_CS-1001-13",
+    "segment_text": "methionin có thể làm giảm tác dụng của Levodopa.",
+    "cs_terms_list": "methionin",
+    "topic": "Medical Sciences",
+    "audio_file": "clip_07.wav"
+  },
+  {
+    "clip_id": "clip_08",
+    "split": "test",
+    "segment_id": "Med_CS-1006-31",
+    "segment_text": "Một số loại thuốc như steroid, ampicillin, thuốc có chứa estrogen, phenothiazine và tetracycline, chế độ ăn uống ảnh hưởng đến nồng độ estrogen như thế nào?",
+    "cs_terms_list": "estrogen",
+    "topic": "Medical Sciences",
+    "audio_file": "clip_08.wav"
+  },
+  {
+    "clip_id": "clip_09",
+    "split": "test",
+    "segment_id": "Med_CS-1006-33",
+    "segment_text": "Do đôi lúc gây tăng hoặc giảm hoạt động của estrogen, tác hại của tình trạng mất cân bằng nội tiết tố estrogen ở phụ nữ.",
+    "cs_terms_list": "estrogen",
+    "topic": "Medical Sciences",
+    "audio_file": "clip_09.wav"
+  },
+  {
+    "clip_id": "clip_10",
+    "split": "test",
+    "segment_id": "Med_CS-1006-7",
+    "segment_text": "Sau đó, hàm lượng hormone sinh dục nữ này sẽ từ từ hạ dần về mức bình thường, các loại hormone estrogen, thực tế.",
+    "cs_terms_list": "hormone; estrogen",
+    "topic": "Medical Sciences",
+    "audio_file": "clip_10.wav"
+  },
+  {
+    "clip_id": "clip_11",
+    "split": "hard",
+    "segment_id": "Med_CS-1017-1",
+    "segment_text": "Bệnh cường giáp là một rối loạn nội tiết xảy ra khi tuyến giáp sản xuất quá mức hormone thyroxine và triiodothyronine.",
+    "cs_terms_list": "hormone; thyroxine; triiodothyronine",
+    "topic": "Medical Sciences",
+    "audio_file": "clip_11.wav"
+  },
+  {
+    "clip_id": "clip_12",
+    "split": "hard",
+    "segment_id": "Med_CS-1020-2",
+    "segment_text": "Một thành phần chính khác là peptit giàu proline, hoạt động chống lại vi rút, kháng khuẩn, chống viêm và điều hòa miễn dịch.",
+    "cs_terms_list": "peptit; prolin",
+    "topic": "Medical Sciences",
+    "audio_file": "clip_12.wav"
+  },
+  {
+    "clip_id": "clip_13",
+    "split": "hard",
+    "segment_id": "Med_CS-1046-1",
+    "segment_text": "Bột ngủ ngon cao cấp Super glycine 4000 Morning là giải pháp tuyệt vời cho chứng mất ngủ dai dẳng.",
+    "cs_terms_list": "glycine",
+    "topic": "Medical Sciences",
+    "audio_file": "clip_13.wav"
+  },
+  {
+    "clip_id": "clip_14",
+    "split": "hard",
+    "segment_id": "Med_CS-1046-2",
+    "segment_text": "Super glycine 4000 Morning là sản phẩm được nhiều chuyên gia khuyên dùng cho người mất ngủ.",
+    "cs_terms_list": "glycine",
+    "topic": "Medical Sciences",
+    "audio_file": "clip_14.wav"
+  },
+  {
+    "clip_id": "clip_15",
+    "split": "hard",
+    "segment_id": "Med_CS-1057-10",
+    "segment_text": "Sản phẩm được tạo ra từ quá trình này được gọi là Hb bị glycosyl hóa. Thông thường để biểu thị chỉ số Hb đã bị glycosyl hóa,",
+    "cs_terms_list": "glycosyl",
+    "topic": "Medical Sciences",
+    "audio_file": "clip_15.wav"
+  },
+  {
+    "clip_id": "clip_16",
+    "split": "hard",
+    "segment_id": "Med_CS-1090-2",
+    "segment_text": "Thì có thể thấy là histone deacetylase hay còn gọi là HDAC.",
+    "cs_terms_list": "histon",
+    "topic": "Medical Sciences",
+    "audio_file": "clip_16.wav"
+  },
+  {
+    "clip_id": "clip_17",
+    "split": "hard",
+    "segment_id": "Med_CS-1105-2",
+    "segment_text": "Nguyên nhân là do đột biến gen HGD, dẫn đến cơ thể không thể phân giải hoàn toàn homogentisic acid.",
+    "cs_terms_list": "homogentisic",
+    "topic": "Medical Sciences",
+    "audio_file": "clip_17.wav"
+  },
+  {
+    "clip_id": "clip_18",
+    "split": "hard",
+    "segment_id": "Med_CS-1155-2",
+    "segment_text": "Bốn, thuốc kháng sinh, phát minh năm 1907, kỷ nguyên của thuốc kháng sinh bắt đầu với sự tổng hợp Salvarsan, nay được gọi là Arsphenamine, của Alfred Bertheim và Paul Ehrlich vào năm 1907.",
+    "cs_terms_list": "Ehrlich",
+    "topic": "Medical Sciences",
+    "audio_file": "clip_18.wav"
+  },
+  {
+    "clip_id": "clip_19",
+    "split": "hard",
+    "segment_id": "Med_CS-1155-5",
+    "segment_text": "Tuy nhiên, phải đến khi Claude Beck, một bác sĩ phẫu thuật tim mạch ở Cleveland, khử rung tim thành công cho một bệnh nhân cận kề cái chết thì loại máy này mới được đưa vào sử dụng rộng rãi.",
+    "cs_terms_list": "Beck",
+    "topic": "Pathology & Pathogens",
+    "audio_file": "clip_19.wav"
+  },
+  {
+    "clip_id": "clip_20",
+    "split": "hard",
+    "segment_id": "Med_CS-1165-6",
+    "segment_text": "aldosterone lẫn Angiotensin 2 và khiến tăng huyết áp như các các hồng trước đã trình bày.",
+    "cs_terms_list": "aldosterone; Angiotensin",
+    "topic": "Medical Sciences",
+    "audio_file": "clip_20.wav"
+  }
+]
